@@ -1,0 +1,28 @@
+{
+    "Student": {
+        "Full Name": "Palagniy Stas",
+        "Group Number": "ISD31",
+        "Birthdate": "2004-12-20",
+        "Address": "Kiev, Ukraine"
+    },
+    "Actual Performance": {
+        "Subjects": [
+            "Python",
+            "IOT",
+            "English"
+        ],
+        "Grades": [
+            100,
+            95,
+            97
+        ],
+        "Average Grade": 97.33333333333333
+    },
+    "Desired Performance": {
+        "Desired Grades": [
+            97,
+            92
+        ],
+        "Desired Average Grade": 94.5
+    }
+}
